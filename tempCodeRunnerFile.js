@@ -1,0 +1,2 @@
+    fontWeight: "bold",
+    color: "#FFFFFF",
